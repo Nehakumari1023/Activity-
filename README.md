@@ -34,7 +34,7 @@ scipy / numpy – statistical analysis
 
 Clone the repository:
 
-git clone https://github.com/your-username/ev-data-analysis.git
+git clone https://github.com/Nehakp8842/Electric Vehicles Analysis.git
 
 Navigate into the folder:
 
